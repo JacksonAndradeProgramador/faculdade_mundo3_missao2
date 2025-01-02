@@ -39,7 +39,6 @@ a- Acessar o endereço https://sourceforge.net/projects/dbdesigner-fork/
 
 b- Efetuar o download do DBDesigner Fork no formato Zip
 
-
 ### 2.   Definir o modelo de dados para um sistema com as características apresentadas nos tópicos seguintes:
 
 a- Deve haver um cadastro de usuários para acesso ao sistema, os quais
@@ -123,7 +122,3 @@ como o que é apresentado a seguir, onde E representa Entrada e S
 representa Saída.
 
 ![44444444444444444](https://github.com/user-attachments/assets/b18d3ae8-09bd-46de-be61-4f50cb8706e3)
-
- 
-<img width="612" alt="4545454" src="https://github.com/user-attachments/assets/97bd9f09-cbaa-478f-b87b-5fdd65809d13">
-
